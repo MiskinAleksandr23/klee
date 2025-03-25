@@ -17,6 +17,7 @@
 #include "klee/ADT/Bits.h"
 #endif
 
+#include "klee/ADT/Bits.h"
 #include "llvm/ADT/APFloat.h"
 #include "llvm/ADT/APInt.h"
 #include "llvm/ADT/DenseSet.h"
